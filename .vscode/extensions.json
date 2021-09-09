@@ -1,12 +1,6 @@
 {
   "recommendations": [
-    "vespa-dev-works.jestrunit",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-rename-tag",
     "dbaeumer.vscode-eslint",
-    "eamodio.gitlens",
-    "pflannery.vscode-versionlens",
-    "esbenp.prettier-vscode",
-    "silvenon.mdx"
+    "esbenp.prettier-vscode"
   ]
 }
